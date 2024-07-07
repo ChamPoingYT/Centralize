@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #FFD700;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#logo {
+    height: 50px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff;
+}
+
+#concept {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #FFD700;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
