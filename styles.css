@@ -14,7 +14,7 @@ header {
 }
 
 #logo {
-    height: 50px;
+    height: 100px; /* Ajuste la taille selon tes besoins */
     width: auto;
     display: block;
     margin: 0 auto;
@@ -40,3 +40,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
